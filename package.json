@@ -1,0 +1,14 @@
+{
+  "name": "hotseatwebapp",
+  "version": "1.0.0",
+  "description": "A Web-App for submitting answers and scoring the card game Hot Seat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
